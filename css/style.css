@@ -219,7 +219,7 @@ img {
     transition: all 0.2s linear;
 }
 #content .box3 {
-    background-image: url(/images/코로나.png);
+    background-image: url(/images/코로나.png);
     width: 500px;
     height: 400px;
     background-size: cover;
