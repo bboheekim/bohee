@@ -34,7 +34,7 @@ img {
 #header .logo {
     width: 70px;
     height: 70px;
-    background-image: url(../images/logo.png);
+    background-image: url(/images/logo.png);
     display: block;
     justify-content: center;
     background-size: cover;
@@ -116,7 +116,7 @@ img {
     padding: 0px 150px;
 }
 #headermain .img {
-    background-image: url(../images/프로필.png);
+    background-image: url(/images/프로필.png);
     background-size: cover;
     width: 300px;
     height: 560px;
@@ -192,7 +192,7 @@ img {
 
 }
 #content .box1 {
-    background-image: url(../images/플랜비.png);
+    background-image: url(/images/플랜비.png);
     width: 500px;
     height: 400px;
     background-size: cover;
@@ -206,7 +206,7 @@ img {
     transition: all 0.2s linear;
 }
 #content .box2 {
-    background-image: url(../images/도넛.png);
+    background-image: url(/images/도넛.png);
     width: 500px;
     height: 400px;
     margin: 40px 20px;
@@ -219,7 +219,7 @@ img {
     transition: all 0.2s linear;
 }
 #content .box3 {
-    background-image: url(../images/코로나.png);
+    background-image: url(/images/코로나.png);
     width: 500px;
     height: 400px;
     background-size: cover;
@@ -232,7 +232,7 @@ img {
     transition: all 0.2s linear;
 }
 #content .box4 {
-    background-image: url(../images/쿰척.png);
+    background-image: url(/images/쿰척.png);
     width: 500px;
     height: 400px;
     background-size: cover;
@@ -277,7 +277,7 @@ img {
 #main .box01 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/코로나행성.jpg);
+    background-image: url(/images/코로나행성.jpg);
     margin: 10px 10px;
 }
 #main .box01 .boxtext {
@@ -320,7 +320,7 @@ img {
 #main .box02 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/얼어붙은세계경제.jpg);
+    background-image: url(/images/얼어붙은세계경제.jpg);
     margin: 10px 10px;
 }
 #main .box02 .boxtext {
@@ -363,7 +363,7 @@ img {
 #main .box03 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/연쇄전쟁.jpg);
+    background-image: url(/images/연쇄전쟁.jpg);
     margin: 10px 10px;
 }
 #main .box03 .boxtext {
@@ -412,7 +412,7 @@ img {
 #main .box04 {
     width: 620px;
     height: 300px;
-    background-image: url(../images/최초의코로나.jpg);
+    background-image: url(/images/최초의코로나.jpg);
     margin: 10px 10px;
 }
 #main .box04 .boxtext {
@@ -455,7 +455,7 @@ img {
 #main .box05 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/끝나지않은마약.jpg);
+    background-image: url(/images/끝나지않은마약.jpg);
     margin: 10px 10px;
 }
 #main .box05 .boxtext {
@@ -504,7 +504,7 @@ img {
 #main .box06 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/플랜비스튜디오.jpg);
+    background-image: url(/images/플랜비스튜디오.jpg);
     margin: 10px 10px;
 }
 #main .box06 .boxtext {
@@ -547,7 +547,7 @@ img {
 #main .box07 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/포에스브랜딩.jpg);
+    background-image: url(/images/포에스브랜딩.jpg);
     margin: 10px 10px;
 }
 #main .box07 .boxtext {
@@ -590,7 +590,7 @@ img {
 #main .box08 {
     width: 300px;
     height: 300px;
-    background-image: url(../images/와디즈.jpg);
+    background-image: url(/images/와디즈.jpg);
     margin: 10px 10px;
 }
 #main .box08 .boxtext {
@@ -750,40 +750,40 @@ img {
 }
 
 #slider .slidera li:nth-child(1) {
-    background-image: url(../images/p최초의코로나.jpg);
+    background-image: url(/images/p최초의코로나.jpg);
 }
 #slider .slidera li:nth-child(2) {
-    background-image: url(../images/p마약.jpg);
+    background-image: url(/images/p마약.jpg);
 }
 #slider .slidera li:nth-child(3) {
-    background-image: url(../images/p세계경제.jpg);
+    background-image: url(/images/p세계경제.jpg);
 }
 #slider .slidera li:nth-child(4) {
-    background-image: url(../images/p코로나행성.jpg);
+    background-image: url(/images/p코로나행성.jpg);
 }
 #slider .slidera li:nth-child(5) {
-    background-image: url(../images/p연쇄전쟁.jpg);
+    background-image: url(/images/p연쇄전쟁.jpg);
 }
 #slider .slidera li:nth-child(6) {
-    background-image: url(../images/p포에스.jpg);
+    background-image: url(/images/p포에스.jpg);
 }
 #slider .slidera li:nth-child(7) {
-    background-image: url(../images/p최초의코로나.jpg);
+    background-image: url(/images/p최초의코로나.jpg);
 }
 #slider .slidera li:nth-child(8) {
-    background-image: url(../images/p마약.jpg);
+    background-image: url(/images/p마약.jpg);
 }
 #slider .slidera li:nth-child(9) {
-    background-image: url(../images/p세계경제.jpg);
+    background-image: url(/images/p세계경제.jpg);
 }
 #slider .slidera li:nth-child(10) {
-    background-image: url(../images/p코로나행성.jpg);
+    background-image: url(/images/p코로나행성.jpg);
 }
 #slider .slidera li:nth-child(11) {
-    background-image: url(../images/p연쇄전쟁.jpg);
+    background-image: url(/images/p연쇄전쟁.jpg);
 }
 #slider .slidera li:nth-child(12) {
-    background-image: url(../images/p포에스.jpg);
+    background-image: url(/images/p포에스.jpg);
 }
 /* slider-t */
 #slider-t {
@@ -826,40 +826,40 @@ img {
 
 }
 #slider-t .sliderb li:nth-child(1){
-    background-image: url(../images/p와디즈.jpg);
+    background-image: url(/images/p와디즈.jpg);
 }
 #slider-t .sliderb li:nth-child(2){
-    background-image: url(../images/p도넛.jpg);
+    background-image: url(/images/p도넛.jpg);
 }
 #slider-t .sliderb li:nth-child(3){
-    background-image: url(../images/p쿰척.jpg);
+    background-image: url(/images/p쿰척.jpg);
 }
 #slider-t .sliderb li:nth-child(4){
-    background-image: url(../images/p묵떡볶이.jpg);
+    background-image: url(/images/p묵떡볶이.jpg);
 }
 #slider-t .sliderb li:nth-child(5){
-    background-image: url(../images/p플랜비2.jpg);
+    background-image: url(/images/p플랜비2.jpg);
 }
 #slider-t .sliderb li:nth-child(6){
-    background-image: url(../images/p플랜비3.jpg);
+    background-image: url(/images/p플랜비3.jpg);
 }
 #slider-t .sliderb li:nth-child(7){
-    background-image: url(../images/p와디즈.jpg);
+    background-image: url(/images/p와디즈.jpg);
 }
 #slider-t .sliderb li:nth-child(8){
-    background-image: url(../images/p도넛.jpg);
+    background-image: url(/images/p도넛.jpg);
 }
 #slider-t .sliderb li:nth-child(9){
-    background-image: url(../images/p쿰척.jpg);
+    background-image: url(/images/p쿰척.jpg);
 }
 #slider-t .sliderb li:nth-child(10){
-    background-image: url(../images/p묵떡볶이.jpg);
+    background-image: url(/images/p묵떡볶이.jpg);
 }
 #slider-t .sliderb li:nth-child(11){
-    background-image: url(../images/p플랜비2.jpg);
+    background-image: url(/images/p플랜비2.jpg);
 }
 #slider-t .sliderb li:nth-child(12){
-    background-image: url(../images/p플랜비3.jpg);
+    background-image: url(/images/p플랜비3.jpg);
 }
 /* footer */
 #footer {
